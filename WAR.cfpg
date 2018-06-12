@@ -1,0 +1,12 @@
+<Projects version="2.0">
+	<Project active="1">WAR.cfp</Project>
+	<File active="0">Soldier.h</File>
+	<File active="0">Wizard.cpp</File>
+	<File active="0">Wizard.h</File>
+	<File active="0">Master.h</File>
+	<File active="0">Warsystem.h</File>
+	<File active="1">Warsystem.cpp</File>
+	<File active="0">main.cpp</File>
+	<File active="0">Soldier.cpp</File>
+	<File active="0">Master.cpp</File>
+</Projects>
